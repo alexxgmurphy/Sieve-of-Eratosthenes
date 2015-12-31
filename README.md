@@ -2,3 +2,5 @@
 Graphically displays prime numbers via a color-coded numbers grid
 
 Created for ITP 365 at USC
+
+Relies on Stanford C++ Library
